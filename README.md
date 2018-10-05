@@ -1,3 +1,5 @@
+**This fork was created in order to make this lib's v3 branch compatible with RN 0.56 and the new required Android target SDK version (26+).**
+
 # react-native-document-picker
 
 ## WARNING: Experimental branch of v3 /!\
